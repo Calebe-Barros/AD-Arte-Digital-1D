@@ -53,4 +53,12 @@ Desenvolver habilidades criativas e técnicas relacionadas à arte digital, edi�
 ---
 
 ## 📬 Contato
-📧 **Email:** seuemail@gmail.com
+📧 **Email:** calebebarros108@gmail.com
+
+## 🤝 Grupo INFONET ACDK
+
+🔗 **Repositório do Grupo:**  
+[Projeto INFONET - ETECVAV]((https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D))
+
+📧 **Email do Grupo:**  
+aleatorizando29@gmail.com
