@@ -58,7 +58,7 @@ Desenvolver habilidades criativas e técnicas relacionadas à arte digital, edi�
 ## 🤝 Grupo INFONET ACDK
 
 🔗 **Repositório do Grupo:**  
-[Projeto INFONET - ETECVAV]((https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D))
+[Projeto INFONET - ETECVAV]((https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D)
 
 📧 **Email do Grupo:**  
 aleatorizando29@gmail.com
