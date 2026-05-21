@@ -1,8 +1,8 @@
-# 🎨 Arte Digital - ETECVAV
+# 🗄️ Banco de Dados - ETECVAV
 
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
-![Disciplina](https://img.shields.io/badge/disciplina-Arte%20Digital-purple)
-![Ferramentas](https://img.shields.io/badge/ferramentas-GIMP%20%7C%20Canva%20%7C%20PowerPoint-pink)
+![Disciplina](https://img.shields.io/badge/disciplina-Banco%20de%20Dados-blue)
+![Ferramentas](https://img.shields.io/badge/ferramentas-SQL%20%7C%20MySQL%20%7C%20Workbench%20%7C%20Word-green)
 
 ---
 
@@ -18,22 +18,23 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 ---
 
 ## 📘 Disciplina
-**Arte Digital**
+**Banco de Dados**
 
 ---
 
 ## 📌 Sobre o Repositório
-Este repositório foi criado para armazenar atividades, projetos, exercícios e estudos desenvolvidos durante as aulas de Arte Digital.
+Este repositório foi criado para armazenar atividades, projetos, exercícios e estudos desenvolvidos durante as aulas de Banco de Dados.
 
-Aqui estarão reunidos trabalhos criativos, experimentações visuais e conteúdos produzidos ao longo da disciplina.
+Aqui estarão reunidos conteúdos relacionados à modelagem de dados, diagramas, consultas SQL e desenvolvimento de estruturas de banco de dados.
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-- 🎨 GIMP
-- 🖌️ Canva
+- 🗄️ MySQL
+- 💻 SQL
+- 📊 MySQL Workbench
 - 📝 Word
-- 📊 PowerPoint
+- 📋 Draw.io
 
 ---
 
@@ -41,19 +42,21 @@ Aqui estarão reunidos trabalhos criativos, experimentações visuais e conteúd
 ```bash
 📁 atividades/
 📁 projetos/
+📁 modelos/
 📁 estudos/
-📁 imagens/
 ```
 
 ---
 
 ## 🚀 Objetivo
-Desenvolver habilidades criativas e técnicas relacionadas à arte digital, edição de imagens e produção visual.
+Desenvolver habilidades relacionadas à modelagem, criação e gerenciamento de bancos de dados, aplicando conceitos práticos utilizados no desenvolvimento de sistemas.
 
 ---
 
 ## 📬 Contato
 📧 **Email:** calebebarros108@gmail.com
+
+---
 
 ## 🤝 Grupo INFONET ACDK
 
