@@ -17,6 +17,17 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 
 ---
 
+## 💳 Certificado
+
+<p align="center">
+  <img src="CERTIFICADO-PTIC/ibm-skillsbuild-ad.png" alt="Certificado IBM SkillsBuild" width="500" hspace="10">
+</p>
+
+🔗 [Ver certificados oficial](https://skills.yourlearning.ibm.com/certificate/share/16e4c18ee6ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp9ceb9229779-10)
+
+---
+
+
 ## 📘 Disciplina
 **Banco de Dados**
 
